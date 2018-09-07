@@ -1,0 +1,7 @@
+<requestHandler name="/newendpoint" class="org.hsmak.plugin.MyRequestHandler">
+    <lst name="words">
+        <str name="word">body</str>
+        <str name="word">fish</str>
+        <str name="word">dog</str>
+    </lst>
+</requestHandler>

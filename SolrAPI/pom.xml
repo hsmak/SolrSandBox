@@ -14,6 +14,8 @@
 
         <scala.major-version>2.12</scala.major-version>
         <scala.version>${scala.major-version}.6</scala.version>
+
+        <spring.version>4.3.4.RELEASE</spring.version>
     </properties>
 
     <dependencyManagement>
@@ -45,6 +47,8 @@
             <artifactId>spring-core</artifactId>
             <version>4.3.10.RELEASE</version>
         </dependency>
+
+
 
     </dependencies>
 
